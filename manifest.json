@@ -1,7 +1,7 @@
 {
   "name": "Panel ESP32",
   "short_name": "Panel ESP32",
-  "start_url": "control-esp32-7.html",
+  "start_url": "index.html",
   "scope": ".",
   "display": "standalone",
   "orientation": "portrait",
